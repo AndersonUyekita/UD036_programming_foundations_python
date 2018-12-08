@@ -4,8 +4,9 @@
 * Author: AH Uyekita
 * Date: 07/12/2018
 * Cod: nd036
+* Instructor: Kunal Chawla
 
-This introduction course aims to shows the essentials of the Python pogramming.
+This introduction course aims to show the essentials of the Python pogramming.
 
 ## Lesson 01 - Introduction
 
